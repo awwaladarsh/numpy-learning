@@ -27,3 +27,6 @@ print(result)
 # Output:
 # [[1 2 5]
 #  [3 4 6]]
+
+
+# np.column_stack - Transforms 1D rows into 2D columns. Appends columns horizontally.
